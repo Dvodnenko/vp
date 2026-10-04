@@ -1,7 +1,7 @@
 [project]
-name = "vtf"
+name = "vp"
 version = "0.1.0"
-description = "Converts video to frames"
+description = "visuals processing"
 authors = [
     {name = "Dvodnenko",email = "thekovalskii@gmail.com"}
 ]
